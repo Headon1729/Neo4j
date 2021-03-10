@@ -1,0 +1,18 @@
+Directories in use:
+  home:         /home/lakshya/Downloads/neo4j-community-4.2.3
+  config:       /home/lakshya/Downloads/neo4j-community-4.2.3/conf
+  logs:         /home/lakshya/Downloads/neo4j-community-4.2.3/logs
+  plugins:      /home/lakshya/Downloads/neo4j-community-4.2.3/plugins
+  import:       /home/lakshya/Downloads/neo4j-community-4.2.3/import
+  data:         /home/lakshya/Downloads/neo4j-community-4.2.3/data
+  certificates: /home/lakshya/Downloads/neo4j-community-4.2.3/certificates
+  run:          /home/lakshya/Downloads/neo4j-community-4.2.3/run
+Starting Neo4j.
+WARNING: Max 8192 open files allowed, minimum of 40000 recommended. See the Neo4j manual.
+2021-02-13 06:53:04.669+0000 INFO  Starting...
+2021-02-13 06:53:06.763+0000 INFO  ======== Neo4j 4.2.3 ========
+2021-02-13 06:53:08.481+0000 INFO  Performing postInitialization step for component 'security-users' with version 2 and status CURRENT
+2021-02-13 06:53:08.482+0000 INFO  Updating the initial password in component 'security-users'  
+2021-02-13 06:53:09.236+0000 INFO  Bolt enabled on localhost:7687.
+2021-02-13 06:53:10.461+0000 INFO  Remote interface available at http://localhost:7474/
+2021-02-13 06:53:10.461+0000 INFO  Started.
